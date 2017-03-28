@@ -1,9 +1,11 @@
 # OVS_module
 
+### My graduation project of engineering bachelor degree.
+
 OVS module Technolory Test
 
 Private repository.
 
-### Copyright @ 2016-2017 Jianwei Mao, FNLab@BUPT
+### Open source, but All unapproved use is banned.
 
-### All Rights Reserved. Open source. All unapproved use is banned.
+### Copyright @ 2016-2017 Jianwei Mao, FNLab@BUPT. All Rights Reserved.
