@@ -1,0 +1,12 @@
+
+
+add pthread lib for linker:
+
+1. right click on project
+2. properties
+3. C/C++ Builder
+4. Settings
+5. GCC C Linker
+6. Libraries
+7. (-l)  click on add...
+8. input "pthread"
