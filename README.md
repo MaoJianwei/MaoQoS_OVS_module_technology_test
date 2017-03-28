@@ -1,6 +1,6 @@
 # OVS_module
 
-### My graduation project of engineering bachelor degree.
+### My graduation project of engineering Bachelor Degree.
 
 OVS module Technolory Test
 
