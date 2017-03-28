@@ -1,8 +1,8 @@
-# OVS_module
+# MaoQoS_OVS_module_technology_test       
 
 ### My graduation project of engineering Bachelor Degree.
 
-OVS module Technolory Test
+OVS module technology test  
 
 Private repository.
 
